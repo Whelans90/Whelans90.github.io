@@ -1,0 +1,148 @@
+h1{
+   font-family: 'POPPINS EXTRABOLD ITALIC'; 
+   font-style: italic;
+   font-size: 75px;
+   text-align: center;
+   text-decoration: underline;
+  
+}
+h2{
+  font-family: 'POPPINS';
+  font-style: bold;
+  font-size:25px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+h3{
+  font-family: 'POPPINS';
+  font-style: bold;
+  font-size:25px;
+  text-decoration: underline;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+h5{
+  font-family: 'POPPINS';
+  font-style: bold;
+  font-size:20px; 
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+a:link {
+color: white;
+}
+a:visited {
+color: black;
+}
+a:hover {
+color: white;
+}
+.header1{
+     font-family: 'POPPINS';
+     font-size: 25px;
+}
+p {
+  font-family: 'POPPINSLIGHT';
+  font-size: 20px;
+  text-align: top;
+  margin-top: 0px;
+}
+.center{
+   font-family: 'POPPINS';
+   font-size:25px;
+    width:80%;
+  margin: 0 auto;
+  
+}
+.Row2{
+  text-align:center;
+  font-family: 'POPPINS';
+  
+}
+.Row2:hover{
+ transform: scale(1.25);
+ color:black;
+ transition: all 0.3s ease; 
+}
+.Row1{
+ text-align:center;
+ font-family: 'POPPINS';
+   
+}
+.Row1:hover{
+ transform: scale(1.25);
+ color:black;
+ transition: all 0.3s ease; 
+}
+.rightAlign{
+  display:inline-block;
+  float: right;
+  padding-top: 0;
+}
+.leftAlign{
+  display: inline-block;
+  float: left;
+}
+.bullet{
+  display: inline;
+  float: left;
+  font-family: 'POPPINSLIGHT';
+  font-size: 20px;
+  text-indent: 15px;
+  vertical-align:top;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  
+}
+.border-test{
+  border: 1px;
+  border-color: red;
+  border-style: solid;
+}
+.tech-container {
+  text-align: center;
+  
+}
+.tech-shell{
+  width:90%;
+  margin: 0 auto;
+  
+}
+.tech{
+  display: inline;
+  float: left;
+  padding: 10px;
+  width: 30%;
+ 
+}
+.whole-page{
+  margin: 40px;
+   
+}
+body{
+  background-color: #00ace6;
+  color :#e6e6e6; 
+}
+.top-third-shell{
+    width:100%;
+    margin:0 auto;
+    padding-bottom: 100px;
+}
+.left{
+  display: inline;
+  text-align: left;
+  float: left;
+  width: 33%;
+}
+.middle{
+  display:inline;
+  float: left;
+  text-align: center;
+  width: 33%;
+}
+.right{
+  display: inline;
+  float: left;
+  text-align:right;
+  width: 33%;
+}
